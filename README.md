@@ -64,7 +64,7 @@ netCDF-C distribution, or the (usually more up-to-date) document:
 A language-independent User's Guide for netCDF, and some other
 language-specific user-level documents are available from:
 
-* [Language-independent User's Guide](https://www.unidata.ucar.edu/software/netcdf/documentation/NUG/index.html#user_guide)
+* [Language-independent User's Guide](https://www.unidata.ucar.edu/software/netcdf/docs/user_guide.html)
 * [NetCDF-C Tutorial](http://www.unidata.ucar.edu/software/netcdf/docs/tutorial_8dox.html)
 * [Fortran-90 User's Guide](http://www.unidata.ucar.edu/software/netcdf/documentation/historic/netcdf-f90/index.html#Top)
 * [Fortran-77 User's Guide](http://www.unidata.ucar.edu/software/netcdf/documentation/historic/netcdf-f77/index.html#Top)
